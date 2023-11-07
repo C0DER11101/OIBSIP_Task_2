@@ -18,7 +18,7 @@ public class main extends Application {
 
 	Random random=new Random();
 
-	int randInt=random.nextInt(50)+1;     // genrating a random number within the range 1 to 50
+	int randInt=random.nextInt(50)+1;     // generating a random number within the range 1 to 50
 
 	@Override
 	public void start(Stage mainStage){
