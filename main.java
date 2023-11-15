@@ -1,3 +1,11 @@
+/*
+   					OASIS INFOBYTE INTERNSHIP ON JAVA DEVELOPMENT
+   					Task: 2
+   					Date: 07-Nov-2023
+					Author: Priyanuj Bora
+					Title: Number Guessing Game
+ */
+
 import javafx.application.Application;
 import java.util.Random;                   // for random number
 import javafx.event.ActionEvent;
